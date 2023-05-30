@@ -1,0 +1,34 @@
+C:\Users\Nikola\Desktop\Faks\3.godina\Sistemsko programiranje\Projekti\Drugi Projekat\Drugi Projekat\bin\Debug\net6.0\Drugi Projekat.exe
+C:\Users\Nikola\Desktop\Faks\3.godina\Sistemsko programiranje\Projekti\Drugi Projekat\Drugi Projekat\bin\Debug\net6.0\Drugi Projekat.deps.json
+C:\Users\Nikola\Desktop\Faks\3.godina\Sistemsko programiranje\Projekti\Drugi Projekat\Drugi Projekat\bin\Debug\net6.0\Drugi Projekat.runtimeconfig.json
+C:\Users\Nikola\Desktop\Faks\3.godina\Sistemsko programiranje\Projekti\Drugi Projekat\Drugi Projekat\bin\Debug\net6.0\Drugi Projekat.dll
+C:\Users\Nikola\Desktop\Faks\3.godina\Sistemsko programiranje\Projekti\Drugi Projekat\Drugi Projekat\bin\Debug\net6.0\Drugi Projekat.pdb
+C:\Users\Nikola\Desktop\Faks\3.godina\Sistemsko programiranje\Projekti\Drugi Projekat\Drugi Projekat\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Nikola\Desktop\Faks\3.godina\Sistemsko programiranje\Projekti\Drugi Projekat\Drugi Projekat\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Nikola\Desktop\Faks\3.godina\Sistemsko programiranje\Projekti\Drugi Projekat\Drugi Projekat\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Nikola\Desktop\Faks\3.godina\Sistemsko programiranje\Projekti\Drugi Projekat\Drugi Projekat\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Nikola\Desktop\Faks\3.godina\Sistemsko programiranje\Projekti\Drugi Projekat\Drugi Projekat\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\Nikola\Desktop\Faks\3.godina\Sistemsko programiranje\Projekti\Drugi Projekat\Drugi Projekat\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Nikola\Desktop\Faks\3.godina\Sistemsko programiranje\Projekti\Drugi Projekat\Drugi Projekat\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Nikola\Desktop\Faks\3.godina\Sistemsko programiranje\Projekti\Drugi Projekat\Drugi Projekat\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Nikola\Desktop\Faks\3.godina\Sistemsko programiranje\Projekti\Drugi Projekat\Drugi Projekat\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Nikola\Desktop\Faks\3.godina\Sistemsko programiranje\Projekti\Drugi Projekat\Drugi Projekat\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Nikola\Desktop\Faks\3.godina\Sistemsko programiranje\Projekti\Drugi Projekat\Drugi Projekat\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Nikola\Desktop\Faks\3.godina\Sistemsko programiranje\Projekti\Drugi Projekat\Drugi Projekat\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Nikola\Desktop\Faks\3.godina\Sistemsko programiranje\Projekti\Drugi Projekat\Drugi Projekat\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Nikola\Desktop\Faks\3.godina\Sistemsko programiranje\Projekti\Drugi Projekat\Drugi Projekat\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Nikola\Desktop\Faks\3.godina\Sistemsko programiranje\Projekti\Drugi Projekat\Drugi Projekat\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Nikola\Desktop\Faks\3.godina\Sistemsko programiranje\Projekti\Drugi Projekat\Drugi Projekat\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Nikola\Desktop\Faks\3.godina\Sistemsko programiranje\Projekti\Drugi Projekat\Drugi Projekat\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Nikola\Desktop\Faks\3.godina\Sistemsko programiranje\Projekti\Drugi Projekat\Drugi Projekat\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Nikola\Desktop\Faks\3.godina\Sistemsko programiranje\Projekti\Drugi Projekat\Drugi Projekat\obj\Debug\net6.0\Drugi Projekat.csproj.AssemblyReference.cache
+C:\Users\Nikola\Desktop\Faks\3.godina\Sistemsko programiranje\Projekti\Drugi Projekat\Drugi Projekat\obj\Debug\net6.0\Drugi Projekat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikola\Desktop\Faks\3.godina\Sistemsko programiranje\Projekti\Drugi Projekat\Drugi Projekat\obj\Debug\net6.0\Drugi Projekat.AssemblyInfoInputs.cache
+C:\Users\Nikola\Desktop\Faks\3.godina\Sistemsko programiranje\Projekti\Drugi Projekat\Drugi Projekat\obj\Debug\net6.0\Drugi Projekat.AssemblyInfo.cs
+C:\Users\Nikola\Desktop\Faks\3.godina\Sistemsko programiranje\Projekti\Drugi Projekat\Drugi Projekat\obj\Debug\net6.0\Drugi Projekat.csproj.CoreCompileInputs.cache
+C:\Users\Nikola\Desktop\Faks\3.godina\Sistemsko programiranje\Projekti\Drugi Projekat\Drugi Projekat\obj\Debug\net6.0\Drugi Projekat.csproj.CopyComplete
+C:\Users\Nikola\Desktop\Faks\3.godina\Sistemsko programiranje\Projekti\Drugi Projekat\Drugi Projekat\obj\Debug\net6.0\Drugi Projekat.dll
+C:\Users\Nikola\Desktop\Faks\3.godina\Sistemsko programiranje\Projekti\Drugi Projekat\Drugi Projekat\obj\Debug\net6.0\refint\Drugi Projekat.dll
+C:\Users\Nikola\Desktop\Faks\3.godina\Sistemsko programiranje\Projekti\Drugi Projekat\Drugi Projekat\obj\Debug\net6.0\Drugi Projekat.pdb
+C:\Users\Nikola\Desktop\Faks\3.godina\Sistemsko programiranje\Projekti\Drugi Projekat\Drugi Projekat\obj\Debug\net6.0\Drugi Projekat.genruntimeconfig.cache
+C:\Users\Nikola\Desktop\Faks\3.godina\Sistemsko programiranje\Projekti\Drugi Projekat\Drugi Projekat\obj\Debug\net6.0\ref\Drugi Projekat.dll
