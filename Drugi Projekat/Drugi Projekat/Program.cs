@@ -40,8 +40,8 @@ namespace Drugi_Projekat
                     }
                     else
                     {
-
-                        words = File.ReadAllText(filePath).Split(new char[] { ' ', '\t', '\n', '\r', ',', '.', '!', '?' }, StringSplitOptions.RemoveEmptyEntries).ToList();
+                        string text = File.ReadAllText(filePath);
+                        words = text.Split(new char[] { ' ', '\t', '\n', '\r', ',', '.', '!', '?' }, StringSplitOptions.RemoveEmptyEntries).ToList();
                         cache.AccessTime = DateTime.Now;
                         count = 0;
                         foreach (var word in words)
